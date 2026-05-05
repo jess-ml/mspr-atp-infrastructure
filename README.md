@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Contexte du projet
+##  Contexte du projet
 
 Dans le cadre de la certification RNCP Niveau 7, ce projet consiste à concevoir et déployer 
 une infrastructure réseau complète et sécurisée pour l'**Association of Tennis Professionals 
@@ -17,7 +17,7 @@ sécuriser l'ensemble du SI** tout en préparant une migration vers le cloud.
 
 ---
 
-## 🏗️ Architecture déployée
+##  Architecture déployée
 
 ### Sites et plan d'adressage
 
@@ -41,7 +41,7 @@ sécuriser l'ensemble du SI** tout en préparant une migration vers le cloud.
 
 ---
 
-## ✅ Missions réalisées
+##  Missions réalisées
 
 ### T1 – Infrastructure de virtualisation
 - Déploiement VMware ESXi avec vSwitchs dédiés par site
@@ -128,8 +128,3 @@ Projet réalisé **individuellement** dans le cadre de la certification
 EPSI | Promotion 2024-2026
 
 
-
-
-## 📄 Licence
-
-Projet académique – EPSI / RNCP35584
