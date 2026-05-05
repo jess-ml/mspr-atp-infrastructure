@@ -121,15 +121,6 @@ mspr-atp-infrastructure/
 ```
 ---
 
----
-mspr-atp-infrastructure/
-├── README.md
-├── docs/
-│   └── rapport_final_mspr_bloc5.pdf
-└── schemas/
-└── schema_reseau_atp.png
----
-
 ## 👤 Réalisé par
 
 Projet réalisé **individuellement** dans le cadre de la certification  
